@@ -1,0 +1,3 @@
+Input					Output 								Test Condition
+{37,12,17,59}		{59, 37, 17,12}							Typical
+null				ThrowsIllegalArgumentException			Exception
